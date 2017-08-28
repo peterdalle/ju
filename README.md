@@ -20,11 +20,11 @@ Läs innan:
 - [Flow control](https://www.ludu.co/course/programmera-med-python/flow-control) (`if`-satser och `for`-loopar)
 - [Funktioner](https://www.ludu.co/course/programmera-med-python/funktioner) (`func`)
 
-Ladda gärna ned [Anaconda](https://www.continuum.io/downloads/) (välj Python version 3+) innan vi ses. Men det finns även möjlighet att få en kopia via USB-pinne när vi ses!
+Ladda gärna ned [Anaconda](https://www.continuum.io/downloads/) (välj Python version 3+) innan vi ses. Men det finns även möjlighet att få en kopia via USB-minne när vi ses!
 
 Vad vi kommer göra:
 
-1. Installera [Anaconda](https://www.continuum.io/downloads/) som innehåller Python och Jupyter Notebooks. Ladda ned Python version 3+.
+1. Installera [Anaconda](https://www.continuum.io/downloads/) (välj Python version 3+) som innehåller Python och Jupyter Notebooks.
 2. Bekanta oss med Jupyter Notebooks.
 3. Skapa och ändra variabler.
 4. Styra vad som händer i programmet med `if`-satser och `for`-loopar.
@@ -44,7 +44,7 @@ Vad vi kommer göra:
 
 # Lär dig mer om Python
 
-Andra guider där du kan lära dig mer om hur Python fungerar. Codeademy är även interaktiv, så att du kan testa att skriva koden direkt i webbläsaren och se vad som händer.
+Andra guider där du kan lära dig mer om hur Python fungerar. Codecademy är även interaktiv, så att du kan testa att skriva Python-kod direkt i webbläsaren och se vad som händer.
 
 - https://www.codecademy.com/learn/learn-python
 - https://www.learnpython.org/
