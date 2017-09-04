@@ -35,6 +35,7 @@ Vad vi kommer göra:
 Läs innan:
 
 - [The First News Report on the L.A. Earthquake Was Written by a Robot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
+- [“Robot Journalism”: The damage done by a metaphor](http://datadrivenjournalism.net/news_and_analysis/robot_journalism_the_damage_done_by_a_metaphor)
 
 Vad vi kommer göra:
 
