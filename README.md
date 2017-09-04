@@ -18,7 +18,7 @@ Läs innan:
 - [Operander](https://www.ludu.co/course/programmera-med-python/operander) (`+`, `-` och `/`)
 - [Indexering](https://www.ludu.co/course/programmera-med-python/indexering) (ta ut värden från en variabel eller lista med `[0]`)
 - [Flow control](https://www.ludu.co/course/programmera-med-python/flow-control) (`if`-satser och `for`-loopar)
-- [Funktioner](https://www.ludu.co/course/programmera-med-python/funktioner) (`func`)
+- [Funktioner](https://www.ludu.co/course/programmera-med-python/funktioner) (`def`)
 
 Ladda gärna ned [Anaconda](https://www.continuum.io/downloads/) (välj Python version 3+) innan vi ses. Men det finns även möjlighet att få en kopia via USB-minne när vi ses!
 
