@@ -42,6 +42,12 @@ Ta reda på hur många tecken strängen är:
 print(len(text))
 ```
 
+Konvertera ett tal till en sträng med `str`:
+```py
+age = 25
+print("Du är " + str(age) + " år gammal.")
+```
+
 ### Manipulera strängar
 
 Byt ut *fox* mot *journalist* i strängen:
