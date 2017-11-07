@@ -59,13 +59,13 @@ three lines and that's it.
 
 ### Listor
 
-Listor börjar alltid på 0.
-
+Skapa en lista med strängar:
 ```py
-# En lista över intressen.
 interests = ["python", "journalistik", "skriva"]
+```
 
-# Skriv ut listans innehåll genom att använda index, alltså [0], [1], och så vidare.
+Skriv ut listans innehåll genom att använda listans index, alltså `[0]`, `[1]`, och så vidare. 
+```py
 print("Dina tre intressen är:")
 print(interests[0])
 print(interests[1])
