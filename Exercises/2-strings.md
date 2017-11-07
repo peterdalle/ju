@@ -85,7 +85,7 @@ Läs mer om [Basic String Operations](https://www.learnpython.org/en/Basic_Strin
 
 ```py
 text = "Python är ett programmeringsspråk för otrevliga människor"
-truth = truth.replace("otrevliga", "smarta")
+truth = text.replace("otrevliga", "smarta")
 truth = truth.upper()
 print(truth)
 ```
