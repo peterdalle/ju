@@ -61,3 +61,5 @@ Andra guider där du kan lära dig mer om hur Python fungerar. Codecademy är ä
 - https://www.codecademy.com/learn/learn-python
 - https://www.learnpython.org/
 - https://www.fullstackpython.com/
+
+Och viktigast av allt: [Tabs versus Spaces](https://www.youtube.com/watch?v=SsoOG6ZeyUI).
