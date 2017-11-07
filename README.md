@@ -43,6 +43,17 @@ Vad vi kommer göra:
 2. Bestämma vad nyhetsroboten ska göra med `if`-satser.
 3. Programmera nyhetsroboten.
 
+## Övningar
+
+Övning | Mål
+:---------------- | :---------------------------------------
+[Övning 1: Variabler](/Exercises/1-variables.md) | Skapa, ändra och kombinera variabler.
+[Övning 2: Strängar](/Exercises/2-strings.md) | Manipulera text i strängar.
+[Övning 3: If-satser](/Exercises/3-if-statements.md) | Kontrollera vad programmet gör med hjälp av if, elif och else.
+[Övning 4: For-loopar](/Exercises/4-for.md) | Hantera for-loopar för att styra hur en lista ska presenteras på skärmen.
+[Övning 5: Funktioner (def)](/Exercises/5-def.md) | Skapa funktioner för att bygga kodblock som kan ta emot, ändra och returnera ett värde.
+[Övning 6: Felhantering](/Exercises/6-errors.md) | Kunna förstå vad olika felmeddelanden betyder, och hur man löser dem.
+
 # Lär dig mer om Python
 
 Andra guider där du kan lära dig mer om hur Python fungerar. Codecademy är även interaktiv, så att du kan testa att skriva Python-kod direkt i webbläsaren och se vad som händer.
