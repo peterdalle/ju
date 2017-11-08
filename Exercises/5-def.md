@@ -83,7 +83,7 @@ Skapa lista med intressen och kalla på funktion:
 ```py
 myinterests = ["python", "knyppling", "monopol", "ishockey", "x-games"]
 
-if isprogrammer(interests):
+if isprogrammer(myinterests):
 	print("Du är programmerare.")
 else:
 	print("Du är inte programmerare.")
