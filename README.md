@@ -34,6 +34,7 @@ Vad vi kommer göra:
 
 Läs innan:
 
+- [Sirens nya robot [Robotea] bevakar från ax till limpa](https://www.medievarlden.se/2017/06/sirens-nya-robot-bevakar-fran-ax-till-limpa/), som även är nominerad till [stora journalistpriset 2017](https://www.aftonbladet.se/nyheter/a/6rAp0/andrev-walden-nomineras-till-stora-journalistpriset)
 - [The First News Report on the L.A. Earthquake Was Written by a Robot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
 - [“Robot Journalism”: The damage done by a metaphor](http://datadrivenjournalism.net/news_and_analysis/robot_journalism_the_damage_done_by_a_metaphor)
 
