@@ -72,7 +72,7 @@ Läs också [Modules and Packages](https://www.learnpython.org/en/Modules_and_Pa
 Skapa funktion:
 ```py
 def isprogrammer(interests):
-	for hobby in interets:
+	for hobby in interests:
 		if hobby == "python" or hobby == "programmering" or hobby == "programmera":
 			return(True)
 		else:
