@@ -75,8 +75,7 @@ def isprogrammer(interests):
 	for hobby in interests:
 		if hobby == "python" or hobby == "programmering" or hobby == "programmera":
 			return(True)
-		else:
-			return(False)
+	return(False)
 ```
 
 Skapa lista med intressen och kalla på funktion:
