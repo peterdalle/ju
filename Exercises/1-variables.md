@@ -57,6 +57,12 @@ three lines and that's it.
 """
 ```
 
+Ta ut det första tecknet i en sträng, och visa på skärmen.
+```py
+name = "John"
+print(name[0])
+```
+
 ### Listor
 
 Skapa en lista med strängar:
