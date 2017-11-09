@@ -55,6 +55,13 @@ Vad vi kommer göra:
 [Övning 5: Funktioner (def)](/Exercises/5-def.md) | Skapa funktioner för att bygga kodblock som kan ta emot, ändra och returnera ett värde.
 [Övning 6: Felhantering](/Exercises/6-errors.md) | Kunna förstå vad olika felmeddelanden betyder, och hur man löser dem.
 
+## Projekt
+
+Notebook | Beskrivning
+:---------------- | :---------------------------------------
+[Nyhetsrobot för filmrecension](/newsrobot-moviereview.ipynb) | Web scraping av filmdatabasen IMDb för att sedan enklare kunna skriva en filmrecension.
+[Nyhetsbevakning av polisens händelser](/polisen.ipynb) | Web scraping av alla polisens händelser som sedan sparas till en CSV-fil som kan öppnas i Excel.
+
 # Lär dig mer om Python
 
 Andra guider där du kan lära dig mer om hur Python fungerar. Codecademy är även interaktiv, så att du kan testa att skriva Python-kod direkt i webbläsaren och se vad som händer.
