@@ -64,3 +64,15 @@ Andra guider där du kan lära dig mer om hur Python fungerar. Codecademy är ä
 - https://www.fullstackpython.com/
 
 Och viktigast av allt: [Tabs versus Spaces](https://www.youtube.com/watch?v=SsoOG6ZeyUI).
+
+## Program för att skriva kod
+
+Förutom Jupyter Notebooks som vi använder under övningarna så kan man skriva kod i fristående program. 
+
+* [Visual Studio Code](https://code.visualstudio.com/) samt tillägget [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+
+Fördelen med dessa program är att de är gratis och fungerar på Mac, Windows och Linux.
+
+Testa Visual Studio Code om du inte kan bestämma dig. 
