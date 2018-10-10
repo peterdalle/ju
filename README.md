@@ -1,14 +1,14 @@
-*Denna sida innehåller Python-kod och Jupyter Notebooks för kursen JU1203 Fördjupad journalistik: Datajournalistik (9 hp), en del i [journalistprogrammet på JMG, Göteborgs universitet](https://jmg.gu.se/utbildning/journalistutbildning/kandidatprogrammet).*
+# JU1203 Datajournalistik: Python-programmering
 
-## Python
+*Denna sida innehåller Python-kod och Jupyter Notebooks för kursen JU1203 Fördjupad journalistik: Datajournalistik (9 hp), en del i [journalistprogrammet på JMG, Göteborgs universitet](https://jmg.gu.se/utbildning/journalistutbildning/kandidatprogrammet).*
 
 [Python](https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)) är ett populärt programmeringsspråk som kan användas för att skapa hemsidor och program. Python är väldigt flexibelt och är enkelt att använda jämfört med andra språk.
 
 Målet är att lära sig grunderna i programmering i allmänhet och Python i synnerhet. Du behöver ingen förkunskap i programmering sedan tidigare, utan vi börjar från grunden.
 
-***Ta med egen dator!*** Du behöver installera program på din dator och det går inte på universitets datorer.
+***Ta med egen dator!*** 
 
-Läs guiden [Lär dig programmera med Python på Ludo.co](https://www.ludu.co/course/programmera-med-python) (steg 2-6) innan föreläsningarna/workshop så att du kan ställa frågor när vi sedan testar i praktiken. Vi kommer att gå igenom alla delar i guiden.
+Läs guiden [Lär dig programmera med Python på Ludo.co](https://www.ludu.co/course/programmera-med-python) (steg 2-6: från variabler/datatyper till funktioner) innan föreläsningarna/workshop så att du kan ställa frågor när vi sedan testar i praktiken. Vi kommer att gå igenom alla delar i guiden.
 
 Kontakta [Peter M. Dahlgren](http://jmg.gu.se/om-institutionen/personal?userId=xdpete) om du har några frågor.
 
