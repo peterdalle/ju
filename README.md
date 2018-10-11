@@ -56,6 +56,7 @@ Se också [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest
 
 - In [References](https://github.com/peterdalle/mij/tree/master/References) you'll find example code snippets
 - Read [Learn more Python](https://github.com/peterdalle/mij/blob/master/learn-more-python.md) to find documentation, help and other Python resources
+- [Tools for media and communication research](https://github.com/peterdalle/mediacommtools)
 
 Om nyhetsrobotar:
 
