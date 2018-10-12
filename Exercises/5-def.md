@@ -1,6 +1,6 @@
 # Övning 5: Funktioner
 
-**Mål:** Skapa funktioner för att bygga kodblock som kan ta emot, ändra och returnera ett värde.
+**Mål:** Konvertera temperaturer genom att bygga en funktion som kan ta emot, ändra och returnera ett värde.
 
 Under [Referenser](#referenser) hittar du hjälp.
 
@@ -8,43 +8,48 @@ Längst ned finns också [Överkurs](#Överkurs) och [Facit](#facit).
 
 ## Gör detta
 
-1. Skapa en funktion som heter `isprogrammer`
-      - funktionen ska ta emot en variabel som heter `interests` som är en lista
-      - funktionen ska kontrollera om interests innehåller `programmering` eller `python`
-      - funktionen ska returnera `True` om interests innehåller programmering eller python, annars ska funktionen returnera `False`
-2. Skapa variabeln `myinterests` som en lista med fem av dina intressen
-3. Gör sedan en if-sats där du kallar på funktionen
+1. Skapa en funktion som heter `tofahrenheit`
+2. Se till att funktionen kan ta emot en variabel som heter `celsius`
+3. Funktionen ska konvertera Celsius till Fahrenheit och sedan returnera Fahrenheit
+4. Kontrollera sedan vad du får för Fahrenheit när du skriver in 21 grader Celsius - se [tabell med celsius/fahrenheit](https://www.almanac.com/content/temperature-conversion)
+4. Gör sedan det omvända (Fahrenheit till Celsius) med en funktion som heter `tocelsius`
+
+Ekvationer:
+
+- Fahrenheit = Celsius * 9/5 + 32
+- Celsius = (Fahrenheit - 32) * 5/9
 
 ## Referenser
 
 Kom ihåg:
 
+- namn på funktionen måste ha parenteser, exempelvis `funktionsnamn()`
 - det måste vara `:` i slutet av raden med `def`
 - den kod som kommer på raden efter `:` måste indenteras med `Tab`
+- för att returnera ett värde eller variabel använder du exempelvis `return(42)` eller `return(variabelnamn)`
 
 ### Funktioner
 
 Skapa funktion med namnet `hello`:
 ```py
-def hello():
+def sayhello():
 	print("Hello World!")
 ```
 
 Kalla på funktionen `hello`:
 ```py
-hello()
+sayhello()
 ```
 
 Skapa funktion som tar emot variabel och returnerar variabel:
 ```py
-def hello(name, age):
-	return("Hej {0}! Du är {1} år gammal.".format(name, age))
+def sayhello(name):
+	return("Hej {0}!".format(name))
 ```
 
 Kalla på funktionen `hello`:
 ```py
-message = hello("John Doe", 25)
-print(message)
+sayhello("John Doe")
 ```
 
 Skapa funktion som kontrollerar om en ålder är under 18 år:
@@ -69,21 +74,16 @@ Läs också [Modules and Packages](https://www.learnpython.org/en/Modules_and_Pa
 
 ## Facit
 
-Skapa funktion:
+Skapa funktion för att konvertera Celsius till Fahrenheit:
 ```py
-def isprogrammer(interests):
-	for hobby in interests:
-		if hobby == "python" or hobby == "programmering" or hobby == "programmera":
-			return(True)
-	return(False)
+def tofahrenheit(celsius):
+	fahrenheit = celsius * 9/5 + 32
+	return(fahrenheit)
 ```
 
-Skapa lista med intressen och kalla på funktion:
+Samt Fahrenheit till Celsius:
 ```py
-myinterests = ["python", "knyppling", "monopol", "ishockey", "x-games"]
-
-if isprogrammer(myinterests):
-	print("Du är programmerare.")
-else:
-	print("Du är inte programmerare.")
+def tocelsius(fahrenheit):
+	celsius = (fahrenheit - 32) * 5/9
+	return(celsius)
 ```
