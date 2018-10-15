@@ -38,8 +38,8 @@ Vad vi kommer att göra, bortsett från föreläsningarna:
 
 Notebook | Beskrivning
 :---------------- | :---------------------------------------
-[Nyhetsrobot för filmrecension](/newsrobot-moviereview.ipynb) | Web scraping av filmdatabasen IMDb för att sedan enklare kunna skriva en filmrecension.
-[Nyhetsbevakning av polisens händelser](/polisen.ipynb) | Web scraping av alla polisens händelser som sedan sparas till en CSV-fil som kan öppnas i Excel.
+[Nyhetsrobot för filmrecension](/Projects/newsrobot-moviereview.ipynb) | Web scraping av filmdatabasen IMDb för att sedan enklare kunna skriva en filmrecension.
+[Nyhetsbevakning av polisens händelser](/Projects/polisen.ipynb) | Web scraping av alla polisens händelser som sedan sparas till en CSV-fil som kan öppnas i Excel.
 
 ## Jupyter Notebooks - tangentbordsgenvägar
 
