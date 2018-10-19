@@ -39,7 +39,8 @@ Vad vi kommer att göra, bortsett från föreläsningarna:
 Notebook | Beskrivning
 :---------------- | :---------------------------------------
 [Nyhetsrobot för filmrecension](/Projects/newsrobot-moviereview.ipynb) | Web scraping av filmdatabasen IMDb för att sedan enklare kunna skriva en filmrecension.
-[Nyhetsbevakning av polisens händelser](/Projects/polisen.ipynb) | Web scraping av alla polisens händelser som sedan sparas till en CSV-fil som kan öppnas i Excel.
+[Nyhetsbevakning av polisens händelser](/Projects/polisen.ipynb) | Web scraping av alla polisens händelser som sedan en nyhetsrobot skriver en text från.
+[Premier League - tabell](/Projects/premier-league.ipynb) | Web scraping av lag/poäng från Premier League, som sparas i en CSV-fil för öppning i Excel.
 
 ## Jupyter Notebooks - tangentbordsgenvägar
 
